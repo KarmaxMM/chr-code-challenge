@@ -56,11 +56,6 @@ Total: 74.68
 ```
 │  chr-interview-test.sln #解决方案
 │  README.md
-│  
-├─.vs
-│  │  ProjectSettings.json
-│  │  slnx.sqlite
-│  │  VSWorkspaceState.json
 │                      
 ├─Model #模型层项目
 │  │  Goods.cs
