@@ -52,33 +52,33 @@ Output 3:
 Sales Taxes: 6.70
 Total: 74.68
 ```
-# Ä¿Â¼ËµÃ÷
+# ç›®å½•è¯´æ˜
 ```
-©¦  chr-code-challenge.sln #½â¾ö·½°¸
-©¦  README.md
-©¦  
-©À©¤.vs
-©¦  ©¦  ProjectSettings.json
-©¦  ©¦  slnx.sqlite
-©¦  ©¦  VSWorkspaceState.json
-©¦                      
-©À©¤Model #Ä£ĞÍ²ãÏîÄ¿
-©¦  ©¦  Goods.cs
-©¦  ©¦  GoodsPriceWithTaxOutput.cs
-©¦  ©¦  GoodsType.cs
-©¦  ©¦  Model.csproj
-©¦                  
-©À©¤Service #·şÎñ²ãÏîÄ¿
-©¦  ©¦  GoodsService.cs
-©¦  ©¦  Service.csproj   
-©¦                  
-©À©¤ServiceTests #²âÊÔÏîÄ¿
-©¦  ©¦  GoodsServiceTests.cs
-©¦  ©¦  ServiceTests.csproj  
-©¦                  
-©¸©¤TestResults #²âÊÔ½á¹û
+â”‚  chr-interview-test.sln #è§£å†³æ–¹æ¡ˆ
+â”‚  README.md
+â”‚  
+â”œâ”€.vs
+â”‚  â”‚  ProjectSettings.json
+â”‚  â”‚  slnx.sqlite
+â”‚  â”‚  VSWorkspaceState.json
+â”‚                      
+â”œâ”€Model #æ¨¡å‹å±‚é¡¹ç›®
+â”‚  â”‚  Goods.cs
+â”‚  â”‚  GoodsPriceWithTaxOutput.cs
+â”‚  â”‚  GoodsType.cs
+â”‚  â”‚  Model.csproj
+â”‚                  
+â”œâ”€Service #æœåŠ¡å±‚é¡¹ç›®
+â”‚  â”‚  GoodsService.cs
+â”‚  â”‚  Service.csproj   
+â”‚                  
+â”œâ”€ServiceTests #æµ‹è¯•é¡¹ç›®
+â”‚  â”‚  GoodsServiceTests.cs
+â”‚  â”‚  ServiceTests.csproj  
+â”‚                  
+â””â”€TestResults #æµ‹è¯•ç»“æœ
 ```
-# »·¾³ºÍÒÀÀµ
+# ç¯å¢ƒå’Œä¾èµ–
 ```
 -.NET Core 3.1
 ```
